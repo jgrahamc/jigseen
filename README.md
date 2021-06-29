@@ -10,7 +10,7 @@ Small program that uses the [SIFT algorithm](https://en.wikipedia.org/wiki/Scale
 
 3. An image is displayed showing the jigsaw piece and the artifacts found by the SIFT algorithm in the jigsaw.
 
-![Output]()
+![Output](https://raw.githubusercontent.com/jgrahamc/jigseen/main/example.jpg)
 
 4. Press any key to return to step 2.
 
